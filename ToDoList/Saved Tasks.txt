@@ -1,0 +1,1 @@
+Enter a task	When a task is complete...	<---- Click the green button next to it	Clost the VI to stop execution	The remaining tasks will be saved
