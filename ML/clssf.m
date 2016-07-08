@@ -15,3 +15,5 @@ RF1 = fitensemble(Xtrain,Ytrain,'Bag',150,mdl1,'type','classification');
 % Classification Tree with surrogate splits is chosen as the learner
 mdl2 = ClassificationTree.template('NVarToSample','all','surrogate','on');
 RF2 = fitensemble(Xtrain,Ytrain,'Bag',150,mdl2,'type','classification');
+
+Xtest(rand(size(Xtest))>0.5) = NaN;
