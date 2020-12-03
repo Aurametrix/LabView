@@ -21,3 +21,7 @@ Executing Perl scripts in LabVIEW
 
 System Exec vi, using Windows batch (*.bat) files, or simply calling the Perl script using bash.exe from a batch file.
 In LabVIEW - just pass the path of the batch file into the command input of System Exec and run the vi. The file runs and the output is reported.
+
+### Interesting Projects
+
+[classification of COVID-19 on computed tomography with pretrained convolutional neural networks](https://sites.google.com/view/tuan-d-pham/codes); [Pham's paper](https://www.nature.com/articles/s41598-020-74164-z)
