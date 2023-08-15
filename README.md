@@ -27,3 +27,5 @@ In LabVIEW - just pass the path of the batch file into the command input of Syst
 [classification of COVID-19 on computed tomography with pretrained convolutional neural networks](https://sites.google.com/view/tuan-d-pham/codes); [Pham's paper](https://www.nature.com/articles/s41598-020-74164-z)
 
 [Potassium regulation](https://github.com/Layton-Lab/Kregulation); [PLOS article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010607)
+
+[memory performance modulated by respiration](https://www.nature.com/articles/s41467-023-40139-7#citeas) - [Matlab codes](https://github.com/nakamunh/Nakamura_2023_Nat_Commun); [data](https://github.com/nakamunh/Nakamura_2023_Nat_Commun. Source data )
